@@ -12,6 +12,7 @@
   <img align="center" alt="Node js" title="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
   <img align="center" alt="React" title="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next js" title="Next.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Graphql" title="Graphql" height="30" width="40" src="https://graphql.org/img/logo.svg">
+ <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
 </div>
