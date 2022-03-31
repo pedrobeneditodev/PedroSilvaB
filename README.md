@@ -1,7 +1,7 @@
 ## Olá!, me chamo Pedro!
 
 - 💻 Estudante de Sistema informação na Ages, faculdade do grupo Ânima Educação. 
-- 📖 Atualmente estou estudando e desenvolvendo aplicações Web utilizando Next.js com Typescript e juntamente com Graphql e Mongo DB.
+- 📖 Atualmente estou estudando e desenvolvendo aplicações Web utilizando o React Framework Next.js com Typescript, juntamente com Graphql e MongoDB.
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSilvaB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSilvaB&layout=compact&langs_count=7&theme=dracula&title_color=blue"/>
