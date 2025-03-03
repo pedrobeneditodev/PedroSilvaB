@@ -37,9 +37,9 @@ Sempre estou em busca de aprender e incorporar novas tecnologias e práticas ao 
 
 ## 🌐 Vamos Conectar?
 💬 Sinta-se à vontade para entrar em contato ou explorar mais do meu trabalho:
-- 📧 **Email**: [pedrobeneditodev@example.com](mailto:pedrobeneditodev@example.com)
-- 💼 **LinkedIn**: [linkedin.com/in/pedrobeneditodev](https://linkedin.com/in/pedrobeneditodev)
-- 📂 **Portfólio**: [pedrobeneditodev.com](https://pedrobeneditodev.com)
+- ☎️ **Contatos**: [pedrobenedito.dev/contatos](https://pedrobenedito.dev)
+- 💼 **LinkedIn**: [linkedin.com/in/pedrobeneditodev](https://linkedin.com/in/pedrobenedito)
+- 📂 **Portfólio**: [pedrobenedito.dev](https://pedrobenedito.dev)
 
 ---
 
